@@ -1,0 +1,15 @@
+{
+    "name": "cinelist.jj",
+    "description": "A app for the moc=vie lovers",
+    "architecture": "@CLICK_ARCH@",
+    "title": "CineList",
+    "hooks": {
+        "cinelist": {
+            "apparmor": "cinelist.apparmor",
+            "desktop":  "cinelist.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "jj <jerinjames672@gmail.com>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}

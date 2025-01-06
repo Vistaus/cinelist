@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the cinelist.jj package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: cinelist.jj\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-31 00:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/HomePage.qml:423 ../qml/SearchPage.qml:326
+msgid "Movie Added Successfully"
+msgstr ""
+
+#: ../qml/HomePage.qml:424 ../qml/SearchPage.qml:327
+msgid "Movie added to My List"
+msgstr ""
+
+#: ../qml/Main.qml:108
+msgid "Lets Go"
+msgstr ""
+
+#: ../qml/Main.qml:335
+msgid "Cineist"
+msgstr ""
+
+#: ../qml/Main.qml:336
+msgid "Never forget your movies"
+msgstr ""
+
+#: ../qml/Popup.qml:10
+msgid "OK"
+msgstr ""
+
+#: ../qml/SearchPage.qml:116
+msgid "Search Movies"
+msgstr ""
+
+#: cinelist.desktop.in.h:1
+msgid "CineList"
+msgstr ""
