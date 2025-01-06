@@ -1,6 +1,6 @@
 # CineList
 
-A app for the moc=vie lovers
+A app for the movie lovers
 
 ## License
 
