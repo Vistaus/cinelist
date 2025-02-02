@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the cinelist.jj package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: cinelist.jj\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-31 00:28+0000\n"
+"PO-Revision-Date: 2025-02-02 11:31+0100\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: ../qml/HomePage.qml:423 ../qml/SearchPage.qml:326
+msgid "Movie Added Successfully"
+msgstr "De film is toegevoegd"
+
+#: ../qml/HomePage.qml:424 ../qml/SearchPage.qml:327
+msgid "Movie added to My List"
+msgstr "De film is toegevoegd aan de kijklijst"
+
+#: ../qml/Main.qml:108
+msgid "Lets Go"
+msgstr "Aan de slag"
+
+#: ../qml/Main.qml:335
+msgid "Cineist"
+msgstr "Cineist"
+
+#: ../qml/Main.qml:336
+msgid "Never forget your movies"
+msgstr "Vergeet nooit meer welke films je wilt kijken"
+
+#: ../qml/Popup.qml:10
+msgid "OK"
+msgstr "Oké"
+
+#: ../qml/SearchPage.qml:116
+msgid "Search Movies"
+msgstr "Zoeken naar films"
+
+#: cinelist.desktop.in.h:1
+msgid "CineList"
+msgstr "Filmlijst"
